@@ -1,0 +1,21 @@
+2024-10-10 14:44:02,097:INFO:Loaded 0 records from data/sample_customer_data.csv
+2024-10-10 14:44:02,116:INFO:Data transformation complete
+2024-10-10 14:44:02,210:INFO:Data loaded to database
+2024-10-10 14:45:53,950:INFO:Loaded 17 records from data/sample_customer_data.csv
+2024-10-10 14:45:53,963:INFO:Data transformation complete
+2024-10-10 14:45:54,060:ERROR:Error loading data to database: invalid input syntax for type boolean: "A"
+LINE 4: ...USA', '1970-01-01T00:00:00.006031987'::timestamp, 'A', 54, 4...
+                                                             ^
+
+2024-10-10 14:47:36,990:INFO:Loaded 17 records from data/sample_customer_data.csv
+2024-10-10 14:47:37,011:INFO:Data transformation complete
+2024-10-10 14:47:37,194:ERROR:Error loading data to database: invalid input syntax for type timestamp: "NaT"
+LINE 4: ...tthew', 123470, '2010-09-30T00:00:00'::timestamp, 'NaT'::tim...
+                                                             ^
+
+2024-10-10 14:59:56,912:INFO:Loaded 17 records from data/sample_customer_data.csv
+2024-10-10 14:59:56,932:INFO:Data transformation complete
+2024-10-10 14:59:57,016:ERROR:Error loading data to database: 'Days_Since_last_Consulted'
+2024-10-10 15:04:45,075:INFO:Loaded 17 records from data/sample_customer_data.csv
+2024-10-10 15:04:45,096:INFO:Data transformation complete
+2024-10-10 15:04:45,222:INFO:Data loaded to database
