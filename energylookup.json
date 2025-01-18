@@ -1,0 +1,9 @@
+{
+    "source1_filename": "raw_power_plant_data_with_assets.csv",
+    "source1_path": "Landing",
+    "source1_container": "energyrawdata",
+    "sink1_storage_account": "energytransformlevel1",  
+    "sink1_container": "transformeddatalevel1",
+    "sink1_path": "transformeddatalevel1",
+    "sink1_filename": "transformeddata.csv"
+}
