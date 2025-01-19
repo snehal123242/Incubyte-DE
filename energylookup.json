@@ -5,5 +5,5 @@
     "sink1_storage_account": "energytransformlevel1",  
     "sink1_container": "transformeddatalevel1",
     "sink1_path": "transformeddatalevel1",
-    "sink1_filename": "transformeddata.csv"
+    "sink1_filename": "transformeddata.parquet"
 }
