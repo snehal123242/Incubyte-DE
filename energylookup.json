@@ -5,6 +5,6 @@
     "sink1_storage_account": "energytransformlevel1",  
     "sink1_container": "transformeddatalevel1",
     "sink1_path": "transformeddatalevel1",
-    "sink1_filename":"matcheddata.parquet"
+    "sink1_filename":"matcheddata.parquet",
     "sink1_filenameerror" :"mismatcheddata.parquet"
 }
