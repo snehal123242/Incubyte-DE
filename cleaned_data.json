@@ -1,0 +1,8 @@
+{
+    "source1_filename": "cleaned_data.parquet",
+    "source1_container": "cleaned-data",
+    "sink1_storage_account": "energytransformlevel1",  
+    "sink_database": "Energy-database",
+    "sink_tablename": "final_data"
+
+}
